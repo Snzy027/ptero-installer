@@ -4,7 +4,7 @@ Please note this script is meant to be used on fresh installations only. You mus
 <br />
 `curl -Ls https://api.github.com/repos/TommyTran732/Pterodactyl-Script/releases/latest | grep -wo "https.*install.sh" | wget -qi -` <br />
 <br /> 
-`curl -Ls https://api.github.com/repos/Snzy027/ptero-installer/releases/tag/1.0 | grep -wo "https.*install.sh" | wget -qi -` <br />
+`curl -Ls https://api.github.com/repos/Snzy027/ptero-installer/releases/latest | grep -wo "https.*install.sh" | wget -qi -` <br />
 <br />
 `bash install.sh` <br />
 <br />
