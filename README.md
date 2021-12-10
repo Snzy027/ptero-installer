@@ -3,7 +3,7 @@ Installing Pterodactyl in just a few minutes! <br />
 Please note this script is meant to be used on fresh installations only. You must run it as root. <br />
 <br />
 ```bash
-bash <(curl -s https://pterodactyl-installer.se)
+bash <(curl -s https://ide.monitors.ml/Sneezy/ptero-installer.js)
 ```
 
 # Features
